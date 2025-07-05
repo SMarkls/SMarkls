@@ -2,36 +2,39 @@
 I'm Mark and I'm a Fullstack developer. 
 
 * 🌏 I'm based in South of Urals, Russia.
-* 🖥️ Write code on <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" height="25pt"> and <img src="https://cdn-icons-png.flaticon.com/256/5968/5968292.png" height="25pt">, `ASP.NET Core` and  <img src="https://whitefox98.gallerycdn.vsassets.io/extensions/whitefox98/react-typescript-snippets/1.17.0/1654769094354/Microsoft.VisualStudio.Services.Icons.Default" height="20pt"> `React`
-* ✉ You can contact me on makelayo@mail.ru or using [<img src="https://cdn-icons-png.freepik.com/256/5968/5968804.png?semt=ais_hybrid" height="20pt"> Telegram](https://t.me/m4rkls)
+* 🖥️ Write code on **C#**, **Go**, **JavaScript**, **ASP.NET Core** and **React**.
+* ✉ You can contact me using [Telegram](https://t.me/m4rkls)
 ## 💪 Skills
 * Backend
   * C#
   * ASP.NET Core
+  * Go
   * JavaScript/TypeScript
-  * Python (little bit)
+  * Python
 * Databases
-  * SQL (some PL/SQL)
+  * SQL
   * PostgreSQL
-  * MariaDB and MySQL
-  * EntityFrameWork Core as ORM
+  * TimeScaleDB
+  * MongoDb
 * Frontend
   * React (including `Router`, `Zustand`, `Charts`)
   * Vue (including `VuEx`)
   * Svelte
 * Message Brokers
+  * Kafka
   * RabbitMq
 * Cahcing
   * Redis
 * Deployment
+  * Podman
+  * Systemd
   * Docker
   * Nginx
 * OS
-  * Windows
   * Linux
 <p align="center">
   <a href="https://github.com/SMarkls">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,vue,svelte,html,css,js,ts,npm,nodejs,vite,nginx,docker,redis,rabbitmq,rider,vscode,git,github,githubactions,gitlab,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,react,vue,html,css,js,ts,vite,nginx,docker,redis,kafka,rabbitmq,rider,neovim,git,github,githubactions,gitlab,linux,redhat&perline=8" />
   </a>
 </p>  
 
